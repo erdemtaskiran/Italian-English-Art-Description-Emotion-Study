@@ -7,13 +7,11 @@ https://github.com/MassimoStel/emoatlas
 **Features:**
 - Italian language text emotion analysis
 - Z-score based emotion scoring
-- Processing of museum visitor feedback
-- Visualization of emotional patterns in cultural contexts
+- Visualization of emotional patterns in aesthetic contexts
 
 **Requirements:**
-- Python 3.x
 - EmoAtlas library
 - spaCy, NLTK, NetworkX
 
 **Usage:**
-The notebook demonstrates how to apply emotion analysis to real-world museum visitor comments, providing insights into visitor experiences and emotional responses to cultural exhibits.
+The notebook demonstrates how to apply emotion analysis to real-world aesthetic comments, providing insights into visitor experiences and emotional responses to cultural exhibits.
